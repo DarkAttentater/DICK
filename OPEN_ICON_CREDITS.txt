@@ -1,0 +1,569 @@
+OPEN-LICENSED ICON CREDITS
+
+Icons below were replaced with openly licensed artwork. Colours were changed and, where noted, shapes were rotated, mirrored or edited.
+
+game-icons.net  - CC BY 3.0 - https://creativecommons.org/licenses/by/3.0/ - https://game-icons.net
+Material Design Icons (Pictogrammers) - Apache License 2.0 - https://github.com/Templarian/MaterialDesign
+Tabler Icons - MIT License - https://github.com/tabler/tabler-icons
+SVG and PNG Icon Injector (PNGII) by rijosan - icons used and recoloured under the mod's asset-use permission (credit the creator) - https://www.nexusmods.com/skyrimspecialedition/mods/196710
+Font Awesome Free 6 (Fonticons, Inc.) - icons CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/ - https://fontawesome.com/license/free
+
+Emoji artwork (converted to single-colour silhouettes and recoloured; some flipped or with cut-in details):
+EmojiOne 2.2 Monotone (Emoji One) - CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/ - https://github.com/joypixels/emojione-legacy
+Twemoji (Twitter, Inc. and other contributors) - CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/ - https://github.com/twitter/twemoji
+Noto Emoji (Google) - Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0 - https://github.com/googlefonts/noto-emoji
+Noto Emoji, older style (Google) - Apache License 2.0 - https://www.apache.org/licenses/LICENSE-2.0 - https://github.com/googlefonts/noto-emoji
+
+Race icons (exception to DICK's open licence): Racial Abilities - I4 icons by IAmNotSimon - https://www.nexusmods.com/skyrimspecialedition/mods/93219
+  Used with the author's permission (credit required; not for sale; modification allowed with credit). Based on the ESO race symbols, redrawn by IAmNotSimon. race_dunmer is recoloured white.
+Skill icons (fx_skill_*): discipline badges and glyph traces made for this mod; the Speechcraft glyph is derived from the Twemoji speaking head (CC BY 4.0). Deity icons: made for this mod from in-game shrine meshes, textures and own drawings.
+
+Label -> source icon (author) [modification]
+
+aetherial_crown -> (basic shapes) [in-game circlet mesh silhouette with drawn crest]
+aetherial_shield -> (basic shapes) [in-game crystal shield mesh silhouette with drawn crest]
+armor_amulet -> (basic shapes) [own drawing: chain with ring pendant]
+armor_armlets -> own:cuff-bracelet [own drawing: studded cuff bracelet]
+armor_bandana -> game-icons:bandana [head removed]
+armor_bandolier -> own:bandolier-pouches [own drawing: bandolier with three buckled pouches]
+armor_belt -> game-icons:belt (lucasms)
+armor_body -> (basic shapes) [own drawing: cuirass with shoulder plates, collar and chest line]
+armor_bra -> emojione-monotone:bikini-top [emojione-monotone bikini, top only]
+armor_bracer -> (basic shapes) [own drawing: banded bracer plates over a rounded arm wrap]
+armor_calves -> (basic shapes) [own drawing: heavy boot with shin and foot plates]
+armor_choker -> own:choker-thick-pendant [own drawing: thick choker band with ring pendant]
+armor_circlet -> (basic shapes) [own drawing: circlet band with front ornament]
+armor_daedra -> (basic shapes) [own drawing: heater shield with the Conjuration skill symbol cut out]
+armor_dragonmask -> PNGII:armor_dragonmask [PNGII's own icon, recoloured]
+armor_feet -> (basic shapes) [own drawing: heavy boot with shin and foot plates]
+armor_forearms -> (basic shapes) [own drawing: gauntlet with hand plate and outer forearm plate]
+armor_glasses -> game-icons:spectacles (lorc)
+armor_goggles -> game-icons:steampunk-goggles (delapouite)
+armor_greaves -> game-icons:greaves (delapouite)
+armor_hands -> (basic shapes) [own drawing: gauntlet with hand plate and outer forearm plate]
+armor_hat -> game-icons:pointy-hat (lorc)
+armor_head -> (basic shapes) [own drawing: closed helmet with T visor]
+armor_horns -> game-icons:bull-horns [centre piece removed]
+armor_mask -> (basic shapes) [own drawing: face mask with angled eyes and frown]
+armor_panties -> own:bikini-bottom-heart [own drawing: bikini bottom with heart cut-out]
+armor_piercing -> own:barbell [own drawing: barbell piercing]
+armor_pouch -> game-icons:knapsack [corners rounded]
+armor_ribbon -> game-icons:ribbon (lorc)
+armor_ring -> (basic shapes) [own drawing: ring band tapering to the bottom with a set gem]
+armor_shoulder -> game-icons:pauldrons (skoll)
+armor_skirt -> game-icons:skirt (delapouite)
+armor_smallmask -> game-icons:domino-mask (lorc)
+armor_stockings -> game-icons:sock-upright [game-icons socks, single sock, stripes filled, upright]
+armor_tail -> game-icons:fox-tail (delapouite)
+armor_tattoo -> game-icons:heart-wings [game-icons heart-wings]
+armor_wing -> game-icons:feathered-wing
+armor_wings -> game-icons:feathered-wing [two feathered wings, tilted back to a diagonal (mirrored)]
+auriel_shield -> (basic shapes) [in-game Auriel's Shield mesh silhouette with shrine-star crest]
+beast_paw -> game-icons:wolf-howl
+book_atronachforge -> game-icons:scroll-unfurled [flipped scroll with Conjuration eye, purple (Lorc, CC BY 3.0)]
+book_herma_mora -> (basic shapes) [book with Hermaus Mora eye emblem (own redraw)]
+book_journal -> (basic shapes) [thin journal, strap from bottom cover bent over fore-edge onto top cover with buckle]
+book_map -> game-icons:treasure-map [treasure-map squared with torn left edge]
+book_missive -> game-icons:scroll-unfurled [flipped scroll with text lines and a sack of coins (Lorc, CC BY 3.0)]
+book_note -> game-icons:scroll-unfurled [flipped horizontally (Lorc, CC BY 3.0)]
+book_tome_read -> (basic shapes) [open tome with Eye of Magnus star]
+clothing_Mpanty -> game-icons:underwear (delapouite)
+clothing_backpack -> (basic shapes) [own drawing: backpack seen from the back]
+clothing_body -> (basic shapes) [own drawing: short-sleeved shirt with V collar]
+clothing_bracer -> (basic shapes) [own drawing: banded bracer plates over a rounded arm wrap]
+clothing_calves -> (basic shapes) [own drawing: boot with folded cuff]
+clothing_crown -> game-icons:crown [jewels straightened upright]
+clothing_feet -> (basic shapes) [own drawing: boot with folded cuff]
+clothing_forearms -> (basic shapes) [own drawing: glove]
+clothing_hands -> (basic shapes) [own drawing: glove]
+clothing_head -> (basic shapes) [own drawing: loose hood]
+clothing_heels -> game-icons:high-heel [mirrored]
+clothing_lingerie -> game-icons:corset
+clothing_mask -> (basic shapes) [own drawing: face mask with angled eyes and frown]
+clothing_pants -> (basic shapes) [own drawing: trousers with belt buckle]
+clothing_robe -> (basic shapes) [own drawing: wrap robe with V collar]
+clothing_shield -> (basic shapes) [own drawing: plain heater shield with three-point top]
+clothing_shoes -> (basic shapes) [own drawing: low shoe]
+crab -> game-icons:sad-crab [mouth line removed]
+crusader_boots -> own:crusader-boots-v0912 [restored v0.9.12 shipped icon; approved by Dave 2026-11-06 (replaces 9zh entry output)]
+crusader_cuirass -> (basic shapes) [in-game Knights of the Nine cuirass mesh silhouette with double-diamond crest]
+crusader_gauntlets -> (basic shapes) [own gauntlet with double-diamond crest centered on the forearm plate]
+crusader_helm -> (basic shapes) [in-game Knights of the Nine helmet mesh silhouette with double-diamond crest]
+crusader_shield -> (basic shapes) [in-game Knights of the Nine shield mesh silhouette with double-kite crest]
+daedric_rune -> own:oblivion-sigil [own trace of the Oblivion sigil (reference image)]
+dawnguard_runeshield -> (basic shapes) [in-game Dawnguard shield mesh silhouette with traced Dawnguard sun crest centered]
+default_alteration -> own:glyph-alteration [own redraw of the base-game alteration school symbol (traced)]
+default_book_read -> (basic shapes) [open book with text lines]
+default_conjuration -> own:glyph-conjuration [own redraw of the base-game conjuration school symbol (traced)]
+default_destruction -> own:glyph-destruction [own redraw of the base-game destruction school symbol (traced)]
+default_effect -> own:swirl-star-3 [own effect icon: magic swirl with hand replaced by a four-point star and two satellite sparkles (game-icons magic-swirl base)]
+default_food -> game-icons:shiny-apple
+default_illusion -> own:glyph-illusion [own redraw of the base-game illusion school symbol (traced)]
+default_ingredient -> game-icons:mushroom-gills
+default_misc -> game-icons:cube
+default_potion -> (basic shapes) [own drawing: round flask with flat base]
+default_power -> PNGII:default_power [PNGII's own icon, recoloured]
+default_restoration -> own:glyph-restoration [own redraw of the base-game restoration school symbol (traced)]
+default_scroll -> game-icons:tied-scroll [tied-scroll flipped, ribbons shortened 60%]
+default_shout -> own:dk-pair [own drawing: Dovah letters D and K from the reference chart, as a thin pair]
+devotion_hands -> (DICK open hands with wayshrine glyph) [DICK]
+disease -> mdi:virus
+divine_sun -> noto-v1:sun [sun emoji silhouette]
+ebony_mail -> (basic shapes) [silhouette traced from the in-game mesh, with a Conjuration glyph cutout]
+effect_stone -> own:effect_stone [DICK]
+enchant_learnable -> (PNGII status/enchant_nodisenchant bolt shape, traced and recoloured) [PNGII shape by rijosan]
+enchant_learned -> (PNGII status/enchant_nodisenchant bolt shape, traced and recoloured) with check mark [PNGII shape by rijosan]
+enchant_nodisenchant -> (PNGII status/enchant_nodisenchant bolt shape, traced and recoloured) [PNGII shape by rijosan]
+food_beer -> own:amber-trace-label-strip [own trace of a bottle reference image, with label strip cutout]
+food_cheese -> game-icons:cheese-wedge (lorc)
+food_egg -> game-icons:big-egg (sbed)
+food_fish -> mdi:fish [stretched and tilted]
+food_magicegg -> game-icons:cosmic-egg
+food_meal -> game-icons:hot-meal (delapouite)
+food_meat -> game-icons:steak (delapouite)
+food_mushroom -> game-icons:mushroom-gills (lorc)
+food_pie -> own:pie-trace-ovals50-solid [traced from a reference pie illustration supplied by the author; vents reduced to half size and filled]
+food_stew -> own:bowl-tall [own drawing: deep bowl with soup surface]
+food_vegetable -> game-icons:cabbage (delapouite)
+food_waterskin -> game-icons:waterskin
+food_wine -> own:green-trace-shine-mark [own trace of a bottle reference image, with shine mark]
+hair -> own:hair-lock-tied [own drawing: tied lock of hair]
+heavyarmor_circlet -> (basic shapes) [own drawing: circlet band with front ornament]
+heavyarmor_hood -> (basic shapes) [own drawing: loose hood]
+key_house -> own:diamond-shaft-width [own diamond key ring, walls match shaft width, joined to shaft]
+lightarmor_body -> (basic shapes) [own drawing: cuirass with collar and chest line]
+lightarmor_bracer -> (basic shapes) [own drawing: banded bracer plates over a rounded arm wrap]
+lightarmor_calves -> (basic shapes) [own drawing: light boot with profile cross laces]
+lightarmor_circlet -> (basic shapes) [own drawing: circlet band with front ornament]
+lightarmor_feet -> (basic shapes) [own drawing: light boot with profile cross laces]
+lightarmor_forearms -> (basic shapes) [own drawing: long leather glove with edge cross laces]
+lightarmor_hands -> (basic shapes) [own drawing: long leather glove with edge cross laces]
+lightarmor_head -> (basic shapes) [own drawing: open helmet with nasal guard]
+lightarmor_hood -> (basic shapes) [own drawing: loose hood]
+lightarmor_mask -> (basic shapes) [own drawing: face mask with angled eyes and frown]
+liver -> game-icons:liver (delapouite)
+magic_earth -> noto:rock [rock emoji silhouette with own cracks]
+magic_lunar -> (basic shapes) [own drawing: crescent]
+magic_space -> game-icons:galaxy (delapouite)
+magic_sun -> noto-v1:sun [sun emoji silhouette]
+magic_time -> game-icons:hourglass (lorc)
+magic_vampire -> (basic shapes) [own drawing: blood drop with shadow, flipped]
+magic_water -> (basic shapes) [own drawing: drop with shadow]
+magic_wind -> emojione-monotone:tornado [tornado emoji silhouette, flipped]
+misc_amphora -> game-icons:amphora
+misc_antlers -> game-icons:deer-head [head removed; gap between antlers halved]
+misc_barrel -> game-icons:barrel (delapouite)
+misc_basket -> game-icons:basket (delapouite)
+misc_bee -> game-icons:bee (lorc)
+misc_birdclaw -> game-icons:bird-claw (lorc)
+misc_birdskull -> game-icons:bird-mask [bird mask with pupils removed (blank sockets)]
+misc_bone -> game-icons:crossed-bones [one bone removed]
+misc_bonepelvis -> game-icons:pelvis-bone [spine removed]
+misc_bucket -> game-icons:full-wood-bucket-handle
+misc_butterfly -> game-icons:butterfly (lorc)
+misc_candle -> game-icons:candle-light (lorc)
+misc_candlestick -> own:candlestick-nocandle [silhouette of the game silver candlestick mesh (clutter/silver/silvercandlestick01.nif), candle removed]
+misc_card -> mdi:cards [back two cards removed]
+misc_charcoal -> own:lumps-rounded-outlined-bold [own three rounded charcoal lumps with separating gaps]
+misc_charcoal_lump -> game-icons:rock
+misc_charcoal_stick -> own:charcoal-stick-trace-r45 [trace of Dave's charcoal stick image, rotated 45 degrees counterclockwise; approved 2026-11-06]
+misc_claws -> game-icons:claw-string [circles removed; claws closed up]
+misc_cloth -> game-icons:rolled-cloth (delapouite)
+misc_clutter -> own:cylinder-45 [own plain cylinder at 45 degrees]
+misc_comb -> game-icons:comb (lorc)
+misc_compass -> game-icons:compass (lorc)
+misc_cowskull -> own:deerskull-plain-fronttop35 [front-top view of the game deer skull mesh (clutter/bones/deerskullprop.nif) with eye sockets and nasal opening cut from its texture]
+misc_crate -> own:crate-open-34-lw15 [three-quarter view of the game open crate mesh (clutter/common/crateopen01.nif) with plank edges cut out]
+misc_cutlery -> game-icons:knife-fork (lorc)
+misc_dragonfly -> game-icons:dragonfly (lorc)
+misc_dragonstone -> own:dragonstone-cracks-bold-righta [own trace of the Dragonstone (reference screenshots) with its three main cracks]
+misc_drug -> own:hookah-outline [own drawing: hookah with outline bowl and wavy liquid]
+misc_drum -> own:drum-solid-lacing6-bold [silhouette of the game drum mesh (clutter/common/drum01.nif) with simplified lacing cut out]
+misc_dwarvenscrap -> own:gear6-groove [own dwarven scrap gear (six-lobe, traced from game art, with groove ring)]
+misc_elderscroll -> (basic shapes) [silhouette traced from the in-game Elder Scroll icon with a sharp 8-pointed star, diagonal like the original]
+misc_eyeball -> game-icons:eyeball (lorc)
+misc_feather -> game-icons:feather (lorc)
+misc_flask -> game-icons:erlenmeyer (lorc)
+misc_flute -> game-icons:flute (delapouite)
+misc_fossil -> game-icons:fossil (lorc)
+misc_gamepiece -> game-icons:pawn (lorc)
+misc_goblet -> own:goblet-band-zigzag5 [silhouette of the game silver goblet mesh (clutter/silver/silvergoblet01.nif) with its decorative band simplified to lines and a zigzag]
+misc_gold -> game-icons:two-coins [game-icons two-coins, recoloured]
+misc_heart -> game-icons:heart-organ
+misc_herbs -> game-icons:herbs-bundle
+misc_hide -> own:animal-hide-aligned-r180 [game-icons animal-hide aligned, rotated 180]
+misc_horn -> own:horn-trace-rim-mirror [traced from an in-game render of the Hearthfire goat horn mesh (_byoh/clutter/resources/horn01.nif), single horn, mirrored and rotated to the original orientation, rim line at the open end]
+misc_hourglass -> game-icons:empty-hourglass (lorc)
+misc_housepart -> fa6-solid:house
+misc_ingot -> own:gi-gold-bar-no-star [game-icons gold-bar with star background removed]
+misc_inkwell -> game-icons:quill-ink [quill removed, enlarged]
+misc_instrument -> own:lute-diag-solidhead [own lute (traced from reference, 45 degrees, solid headstock)]
+misc_jar -> own:jar-lid-1 [own jar (jar-c with widened lid)]
+misc_jug -> own:jug-band-zigzag5 [silhouette of the game silver jug mesh (clutter/silver/silverjug01.nif) with its decorative band simplified to lines and a zigzag]
+misc_karstaagskull -> PNGII:misc_trollskull [PNGII's own troll skull icon, recoloured pale frost blue (Karstaag)]
+misc_knife -> own:knife-diag [silhouette of the game table knife mesh (clutter/dining set/basicknife01.nif), widened, diagonal]
+misc_lantern -> own:lantern-front-nif [silhouette from the in-game lantern mesh (candlelantern01), front view]
+misc_leather -> own:hide-trace-aligned [own trace of a leather hide reference image, rotated to match]
+misc_lockpick -> own:lockpick-trace-small-hook [own trace of a lockpick reference image, thickened, with an L hook]
+misc_lute -> own:lute-diag-solidhead [own lute (traced from reference, 45 degrees, solid headstock) (same art as misc_instrument)]
+misc_mirror -> game-icons:mirror-mirror (lorc)
+misc_ore -> own:gi-rock-r270 [game-icons rock, rotated 270]
+misc_ore_clay -> own:gi-rock-r270-clay [game-icons rock, rotated 270]
+misc_plate -> own:plate-ring-shine-long [own plate: rim ring, inner disc, shine arc]
+misc_remains -> PNGII:misc_remains [PNGII's own icon, recoloured]
+misc_satchel -> game-icons:knapsack [corners rounded]
+misc_scalpel -> game-icons:scalpel [mirrored]
+misc_scissors -> game-icons:scissors (john-redman, lorc)
+misc_sigilstone -> own:sigilstone-retrace-bold [own trace of the sigil stone (reference screenshots), bold grooves, all lines connected]
+misc_skeletonkey -> game-icons:skeleton-key (lorc)
+misc_soap -> game-icons:soap (delapouite)
+misc_soulgem -> (basic shapes) [own drawing: diagonal gem with facet stripe]
+misc_spyglass -> game-icons:spyglass (lorc)
+misc_strips -> own:ribbon-filled-r45 [game-icons ribbon, frayed ends filled straight, rotated 45]
+misc_tablewear -> game-icons:fork-knife-spoon [spoon removed, recentred]
+misc_tent -> game-icons:camping-tent (delapouite)
+misc_tool -> own:hammer-b [own hammer (tongs removed, banded head, 45 degrees)]
+misc_toy -> own:doll-eyes-r45 [own cloth doll (traced from reference, rotated 45 degrees, eyes cut out)]
+misc_trollskull -> PNGII:misc_trollskull [PNGII's own icon, recoloured]
+misc_tusk -> game-icons:ivory-tusks [one tusk removed]
+misc_wood -> own:gi-log-r270-flip [game-icons log, rotated 270 and flipped]
+missile_sandwich -> game-icons:sandwich [shrunk; motion lines added]
+mz_bellows -> game-icons:bellows (delapouite)
+mz_broom -> game-icons:broom (delapouite)
+mz_bust -> own:bust-profile-v3a [drawn bust: head in left profile on frontal shoulders, crown shaped like the original icon; approved 2026-11-06]
+mz_chalice -> game-icons:jeweled-chalice [jewels removed, side notches filled, cross cut into the bowl]
+mz_drinkinghorn -> own:drinking-horn-strap-v3 [original horn shape with bead chain replaced by a smooth strap, ring detail and tip nub removed, band near the point; approved 2026-11-06]
+mz_dwemercore -> own:dwemer-core-trace [trace of Dave's Dwemer core reference image; approved 2026-11-06]
+mz_dwemercube -> own:dwemer-cube-trace-rings-y [trace of Dave's Dwemer cube image with face edges, corner pieces, double-ring medallions and Dwemer Y symbols; approved 2026-11-06]
+mz_flag -> game-icons:flying-flag
+mz_flute -> game-icons:flute
+mz_goblet -> own:goblet-band-zigzag5 [body reused from misc_goblet (approved), Muetzl label]
+mz_jug -> own:jug-band-zigzag5 [body reused from misc_jug (approved), Muetzl label]
+mz_ladle -> game-icons:ladle (delapouite)
+mz_pitcher -> own:jug-band-zigzag5 [body reused from misc_jug (approved), Muetzl pitcher label; approved 2026-11-06]
+mz_pitchfork -> game-icons:pitchfork (delapouite)
+mz_plate -> own:plate-ring-shine-long [body reused from misc_plate (approved), Muetzl label]
+mz_pot -> own:kettle-silhouette-y90 [silhouette of the in-game kettle mesh (meshes/clutter/kettle01.nif), side view turned 90 degrees; approved 2026-11-06]
+mz_roll_of_paper -> (basic shapes) [paper roll: diagonal rolled sheet with spiral end, not bound or tied]
+mz_tongs -> own:tongs-trace-thick [trace of Dave's tongs image, thickened slightly; approved 2026-11-06]
+mz_urn -> noto:funeral-urn [silhouette with lid separation, two decorative lines and a line above the base; approved 2026-11-06]
+mz_vase -> own:eej-vase-silhouette [silhouette of the in-game vase mesh (creationclub/eejsse004/clutter/eej_vase.nif, ccEEJSSE004_Vase2), side view; approved 2026-11-06]
+mz_warhorn -> game-icons:hunting-horn
+potion_fire -> noto:fire [fire emoji glyph in own bell flask]
+potion_frost -> noto:snowflake [snowflake emoji glyph in own bell flask]
+potion_health -> (basic shapes) [own drawing: round flask with cross]
+potion_magic -> (basic shapes) [own drawing: square flask with waves]
+potion_poison -> (basic shapes) [own drawing: square flask; skull shared with ring_namira]
+potion_shock -> (basic shapes) [own drawing: lightning bolt in bell flask]
+potion_skooma -> own:skooma-bottle-nif [silhouette from the in-game skooma bottle mesh (potionskooma), side view, small gap between cork and lip]
+potion_stam -> (basic shapes) [own drawing: conical flask with chevrons]
+potion_vial -> game-icons:vial (sbed)
+power -> PNGII:default_power [PNGII's own icon, recoloured]
+power_burial -> (DICK burial tombstone with scribbled text, zigzag) [DICK]
+power_campfire -> game-icons:campfire (lorc)
+power_commandfollowers -> mdi:chat-processing
+power_continuancealt -> (basic shapes) [thicker half sun (left) and snowflake (right) with a thin gap between]
+power_createitem -> noto-v1:hammer-and-pick [silhouette, flipped, gap cut in the back tool]
+power_emptyhands -> (open hands, angular redraw after the Dodo original layout) [DICK]
+power_entangle -> game-icons:fist [flipped; with DICK fire, frost and shock emblems]
+power_fillbottle -> (DICK waterskin_2 with drawn water drops) [DICK]
+power_harvest -> game-icons:herbs-bundle [with the DICK open hand]
+power_harvestalt -> game-icons:heart-organ [with the DICK open hand]
+power_harvestwood -> game-icons:axe-in-log (delapouite)
+power_instincts -> game-icons:bolt-eye [lower lashes removed, recentred]
+power_meditate -> game-icons:meditation (lorc)
+power_pitchtent -> game-icons:camping-tent [hammer and spike cut out]
+power_prayeralt -> (DICK open hands with wayshrine glyph) [DICK]
+power_realign -> game-icons:fist [two fists; with DICK fire, frost and shock emblems]
+power_refocus -> game-icons:fist [two fists; with tabler:target (MIT)]
+power_reshape -> game-icons:fist [two fists; with DICK default_destruction]
+power_reverse -> game-icons:fist [two fists; with game-icons:cycle]
+power_spellsiphon -> (DICK open hands with fire, frost and shock emblems) [DICK]
+power_tamebeast -> game-icons:wolf-head [flipped and tilted; with the DICK open hand]
+power_untangle -> (DICK open hand with fire, frost and shock emblems) [DICK]
+scroll_spider -> game-icons:masked-spider [masked-spider rotated 180, head solid, fangs halved]
+soulgem_azura -> (basic shapes) [own trace of in-game Azura's Star render]
+soulgem_empty -> (basic shapes) [own drawing: diagonal gem outline with facet stripe]
+soulgem_full -> (basic shapes) [own drawing: diagonal gem with facet stripe]
+soulgem_grandempty -> (basic shapes) [own drawing: diagonal gem outline with facet stripe in a holder]
+soulgem_grandfull -> (basic shapes) [own drawing: diagonal gem with facet stripe in a holder]
+soulgem_grandpartial -> (basic shapes) [own drawing: half-filled diagonal gem in a holder]
+soulgem_partial -> (basic shapes) [own drawing: half-filled diagonal gem]
+soulgem_tomatoempty -> (basic shapes) [own drawing: tomato soul gem (empty)]
+soulgem_tomatofull -> (basic shapes) [own drawing: tomato soul gem (full)]
+soulgem_tomatopartial -> (basic shapes) [own drawing: tomato soul gem (partial)]
+stone_generic -> own:stone_generic [DICK]
+thuum -> own:dk-pair-shout [own dk-pair shout icon]
+tome_alteration -> own:glyph-alteration-tome [own redraw of the base-game alteration school symbol (traced)]
+tome_conjuration -> own:glyph-conjuration-tome [own redraw of the base-game conjuration school symbol (traced)]
+tome_destruction -> own:glyph-destruction-tome [own redraw of the base-game destruction school symbol (traced)]
+tome_illusion -> own:glyph-illusion-tome [own redraw of the base-game illusion school symbol (traced)]
+tome_restoration -> own:glyph-restoration-tome [own redraw of the base-game restoration school symbol (traced)]
+vamp_fangs -> game-icons:fangs (skoll)
+voice_bind -> game-icons:fist [two fists; with DICK default_shout]
+waterskin_0 -> game-icons:waterskin [outline, empty]
+waterskin_1 -> game-icons:waterskin [outline with 1/3 fill]
+waterskin_2 -> game-icons:waterskin [outline with 2/3 fill]
+waterskin_3 -> game-icons:waterskin
+weapon_claw -> (basic shapes) [drawn from basic shapes]
+weapon_knuckles -> game-icons:brass-knuckles (delapouite)
+
+
+Icons chosen or recoloured for 0.9.4 (supersede earlier lines for the same label):
+
+aetherial_staff -> own work (33% thicker across, larger glyph)
+armor_cuisses -> game-icons:armor-cuisses [col=#6b7585]
+armor_earring -> game-icons:drop-earrings [col=#ecda8c]
+armor_eyepatch -> own work (eyepatch with a thicker band loop and shade line)
+armor_facemask -> own work (same icon as armor_mask)
+armor_hoof -> mdi:horseshoe [flipv|col=#6b7585]
+armor_scarf -> own work (twemoji scarf, white, strong detail shade)
+armor_shield -> own work (armor_shield, bottom widened)
+armor_trousers -> game-icons:trousers [col=#ffffff]
+armor_wraithguard -> own work (Dwemer gold, gear inverted: black gear, gold outlines kept)
+auriel_bow -> own work (25% thicker across, larger glyph)
+beast_claw -> own work (DICK beast_paw (approved))
+book_blank -> own work (Wider (x1.4), longer (x1.15))
+book_crafting -> own work (Hammer along the cover diagonal, smaller)
+book_recipe -> own work (Recipe scroll with default potion)
+book_spell_alteration -> own work (Glyph enlarged on the new book)
+book_spell_conjuration -> own work (Glyph enlarged on the new book)
+book_spell_destruction -> own work (Glyph enlarged on the new book)
+book_spell_illusion -> own work (Glyph enlarged on the new book)
+book_spell_restoration -> own work (Glyph enlarged, centred)
+book_tome -> own work (Glyph centred on cover)
+clothing_cloak -> own work (cloak with the lines emphasised (level 2))
+crusader_mace -> own work (25% thicker across, larger glyph)
+crusader_sword -> own work (33% thicker across, larger glyph)
+dawnbreaker -> own work (25% thicker across, larger glyph)
+dawnguard_runeaxe -> own work (25% thicker across, larger glyph)
+dawnguard_runehammer -> own work (50% thicker across, larger glyph)
+default_armor -> own work (same icon as armor_body)
+default_book -> own work (Label plate near the top of the cover)
+default_key -> own work (key_house shaft with a larger round ring)
+default_weapon -> own work (25% thicker across)
+ebony_blade -> own work (25% thicker across, larger glyph)
+effects/absorb -> own work (>)armor(< lower half, curves curved with gap)
+effects/armor -> own work (DICK armor_body)
+effects/block -> own work (DICK armor_shield)
+effects/boundweapon -> own work (sword thickened, solid aura) [rot=90]
+effects/bowspeed -> game-icons:fast-arrow [rot=270]
+effects/carryweight -> own work (weight without Kg) [col=#9aa0a6]
+effects/clairvoyance -> own work (book_map with magic aura (dashed))
+effects/cloak -> own work (cloak with aura lines, thicker)
+effects/damage -> own work (skull shared with ring_namira)
+effects/disease_resist -> own work (widened shield, disease cutout (larger))
+effects/enhanceweapon -> own work (sword thickened with sparkles) [rot=90]
+effects/fire_resist -> own work (widened shield, fire cutout (larger))
+effects/frost_resist -> own work (widened shield, frost cutout (larger))
+effects/health -> fa6-solid:heart [col=#d92a73]
+effects/health_regen -> own work (w2 chevrons, equal gap top and bottom)
+effects/magic_resist -> own work (widened shield, magic cutout (larger))
+effects/magicka -> own work (approved magicka_regen drop, filled)
+effects/magicka_regen -> own work (drop with two chevrons cut out)
+effects/nighteye -> own work (solid pupil with moon cutout) [flip]
+effects/noise -> own work (earlobe filled)
+effects/poison_resist -> own work (widened shield, skull cutout shared with ring_namira)
+effects/rally -> game-icons:rally-the-troops
+effects/reanimate -> game-icons:raise-skeleton
+effects/shock_resist -> own work (widened shield, shock cutout (larger))
+effects/shout -> own work (DICK shout (default_shout))
+effects/speech -> twemoji:sk1
+effects/speed -> mdi:run-fast
+effects/stamina -> twemoji:e2g
+effects/stamina_regen -> twemoji:d6
+effects/summon -> game-icons:portal [col=#993899]
+effects/unarmed -> game-icons:fist
+effects/vampire -> game-icons:fangs [col=#b3202a]
+effects/ward -> own work (inner effect 3x, dashed aura outside)
+effects/waterbreathing -> own work (speech head cropped to face, bubbles) [col=#53a9de]
+effects/waterwalking -> own work (solid feet, tiny ankle curve) [col=#53a9de]
+effects/werewolf -> own work (DICK werewolf howl (beast_paw))
+fff_brawlinggauntlet -> own work (Mine (traced, #868688)) [col=#868688]
+food_bread -> own work (Bread traced from your reference, 3 scoring lines)
+food_honeycomb -> game-icons:dripping-honey [col=#ebaf4c]
+fx_deity_akatosh -> DICK own work:e1
+fx_deity_arkay -> DICK own work:r3
+fx_deity_dibella -> DICK own work:h1
+fx_deity_julianos -> DICK own work:f4
+fx_deity_kynareth -> DICK own work:u4
+fx_deity_mara -> DICK own work:m2
+fx_deity_stendarr -> DICK own work:b4
+fx_deity_talos -> DICK own work:t1
+fx_deity_zenithar -> DICK own work:y1
+fx_disease -> own work (DICK disease (approved), white) [col=#7f8a3d]
+lightarmor_shield -> own work (lightarmor_shield, bottom widened)
+mace_molag_bal -> own work (25% thicker across, larger glyph)
+magic_fire -> own work (fire only, no bottle)
+magic_frost -> own work (frost only, no bottle)
+magic_moons -> own work (DICK werewolf howl (beast_paw))
+magic_shock -> own work (shock only, no bottle)
+mask_clavicus_vile -> own work (horns cropped to the lower 55% (natural shape, tips cut off))
+mehrunes_razor -> own work (25% thicker across, larger glyph)
+miraak_staff -> own work (25% thicker across, larger glyph)
+miraak_sword -> own work (25% thicker across, larger glyph)
+misc_artifact -> own work (daedra artifact pentagon without glyph, solid)
+misc_artifactdaedra -> own work (gap as the heptagon, glyph gap wider)
+misc_backpack -> own work (same icon as clothing_backpack)
+misc_beartrap -> own work (traced from your screenshot, oriented like PNGII, with teeth) [col=#a89e8c]
+misc_camping -> game-icons:camping-tent [col=#bf8e60]
+misc_cauldron -> own work (dark iron cauldron, light inside)
+misc_chest -> game-icons:locked-chest [col=#8b5e34]
+misc_dragonclaw -> own work (Golden Claw mesh silhouette, oriented like PNGII)
+misc_dragonclaw__gold -> own work (misc_dragonclaw silhouette in gold)
+misc_fangs -> game-icons:f1
+misc_gem -> own work (slightly smaller (85%)) [col=#ffb0d1]
+misc_goldsack -> own work (noto money bag, no dollar sign) [col=#fec93d]
+misc_hammer -> own work (head bands and collar line)
+misc_horsetack -> mdi:horseshoe [flipv|col=#6b7585]
+misc_mortar -> fa6-solid:mortar-pestle
+misc_palette -> fa6-solid:palette
+misc_sapling -> game-icons:ground-sprout
+misc_seashell -> own work (Pearl, shine arc) [col=#8fbce6]
+misc_teapot -> own work (twemoji teapot, one colour, lid line)
+misc_torch -> own work (approved DICK flame in line with the torch, head top left)
+mz_cup -> own work (Cup mesh silhouette, side) [col=#b5805a]
+mz_drum -> own work (DICK misc_drum (approved))
+mz_sigilstone -> own work (DICK misc_sigilstone (approved)) [col=#d2401e]
+mz_spigot -> own work (left side changed to a barrel spike)
+mz_tankard -> own work (Tankard mesh silhouette, side) [col=#8f7355]
+nightingale_blade -> own work (33% thicker across, larger glyph)
+nightingale_bow -> own work (25% thicker across, larger glyph)
+ring_hircine -> own work (wolf head 33% larger)
+ring_namira -> own work (poison-icon skull (resist version), 33% larger)
+rueful_axe -> own work (25% thicker across, larger glyph)
+sanguine_rose -> own work (25% thicker across, larger glyph)
+savior_hide -> own work (wolf head 1.55x, centered)
+skull_of_corruption -> own work (33% thicker across, larger glyph)
+soulgem_ayleidcrystalempty -> own work (line segment with a larger gap at each end)
+soulgem_ayleidcrystalfull -> own work (line segment with a larger gap at each end)
+soulgem_ayleidcrystalpartial -> own work (line segment with a larger gap at each end)
+spellbreaker -> own work (glyph 60% larger (edge gap 11px of 1024))
+staff_of_magnus -> own work (33% thicker across, larger glyph)
+tool_shovel -> game-icons:spade [flip]
+vamp_bat -> twemoji:bat [col=#b3202a]
+vamp_blood -> own work (DICK magic_vampire) [col=#b3202a]
+volendrung -> own work (25% thicker across, larger glyph)
+wabbajack -> own work (50% thicker across, larger glyph)
+weapon_blackbow -> own work (25% thicker, Dwemer gold, Dwemer gear glyph)
+weapon_bloodskal -> own work (33% thicker across)
+weapon_chillrend -> own work (25% thicker across)
+weapon_daedra -> own work (25% thicker across)
+weapon_icebladeofthemonarch1H -> own work (50% thicker across)
+weapon_icebladeofthemonarch2H -> own work (50% thicker across)
+weapon_keening -> own work (original thickness at this length, Dwemer gold, gear glyph)
+weapon_sunder -> own work (25% thicker, Dwemer gold, Dwemer gear glyph)
+weapon_wuuthrad -> own work (25% thicker across)
+ysgramor_shield -> own work (reduced detail, medium)
+fx_skill_alchemy -> own work (badge + traced glyph)
+fx_skill_alteration -> own work (badge + traced glyph)
+fx_skill_archery -> own work (badge + traced glyph)
+fx_skill_blocking -> own work (badge + traced glyph)
+fx_skill_conjuration -> own work (badge + traced glyph)
+fx_skill_destruction -> own work (badge + traced glyph)
+fx_skill_enchanting -> own work (badge + traced glyph)
+fx_skill_heavyarmor -> own work (badge + traced glyph)
+fx_skill_illusion -> own work (badge + traced glyph)
+fx_skill_lightarmor -> own work (badge + traced glyph)
+fx_skill_lockpicking -> own work (badge + traced glyph)
+fx_skill_onehanded -> own work (badge + traced glyph)
+fx_skill_pickpocket -> own work (badge + traced glyph)
+fx_skill_restoration -> own work (badge + traced glyph)
+fx_skill_smithing -> own work (badge + traced glyph)
+fx_skill_sneak -> own work (badge + traced glyph)
+fx_skill_speechcraft -> own work (badge + traced glyph)
+fx_skill_twohanded -> own work (badge + traced glyph)
+food_cheesewheel -> own work (whole cheese wheel)
+food_apple_green -> default_food apple shape, recoloured green
+misc_antennae -> own work (insect antennae)
+misc_rock -> game-icons:rock (rotated 270, same shape as misc_ore), recoloured
+misc_ore_stone -> game-icons:rock (rotated 270, same shape as misc_ore), recoloured
+misc_butterfly_blue -> misc_butterfly shape (game-icons, recoloured)
+misc_butterfly_monarch -> misc_butterfly shape (game-icons, recoloured)
+misc_butterfly_luna -> misc_butterfly shape (game-icons, recoloured)
+misc_butterfly_ancestor -> misc_butterfly shape (game-icons, recoloured)
+misc_butterfly_green -> misc_butterfly shape (game-icons, recoloured)
+misc_butterfly_purple -> misc_butterfly shape (game-icons, recoloured)
+misc_dragonfly_blue -> misc_dragonfly shape (game-icons, recoloured)
+misc_dragonfly_orange -> misc_dragonfly shape (game-icons, recoloured)
+food_potato -> own drawing
+food_cheesewheel -> own drawing
+misc_alembic -> twemoji:alembic (recoloured) [body recoloured, leaf and stem kept]
+food_carrot -> twemoji:carrot
+food_leek -> game-icons:leek (recoloured)
+food_tomato -> twemoji:tomato
+food_sacred_banana -> game-icons:banana (recoloured)
+food_sacred_kiwi -> game-icons:kiwi-fruit (recoloured)
+food_sacred_mango -> twemoji:mango
+food_sacred_melon -> twemoji:melon
+food_sacred_papaya -> twemoji:mango (recoloured) [body recoloured, leaf and stem kept]
+food_sacred_pineapple -> twemoji:pineapple (flipped)
+misc_chitin -> game-icons:fish-scales (rotated 45, cropped to a few scales), recoloured
+misc_chitin_8fa0a5 -> game-icons:fish-scales (rotated 45, cropped to a few scales), recoloured
+food_gourd -> own drawing (striped gourd with stem, rotated 45)
+misc_thorax -> own trace of the in-game thorax image (rotated 45, head notch filled), recoloured
+food_apple_red_poison -> default_food apple shape with the ring_namira skull cut out
+food_apple_green_poison -> default_food apple shape (green) with the ring_namira skull cut out
+misc_aetheriumcrest -> crest from aetherial_staff (same artwork), enlarged
+deity_auriel -> Auriel sun crest from auriel_bow (same artwork), enlarged
+effects/invisibility -> PNGII:effects/invisibility [PNGII's own icon, unmodified]
+effects/paralysis -> PNGII:effects/paralysis [PNGII's own icon, unmodified]
+
+Weapon icons (0.10.0): own silhouettes traced from the in-game meshes, coloured from the models' textures (source model in brackets where a specific mesh was used; the rest are earlier own traces recoloured or own drawings):
+URW - Useless Resources - Weapons by Urwy (Skyrim LE, nexusmods.com/skyrim/mods/12087) - assets used with credit to the author (used under the author's stated terms: free to use with credit, files not re-uploaded; only finished 2D icons are included).
+Weapons of the Third Era by 747823 (Skyrim LE, nexusmods.com/skyrim/mods/3871) - free use of assets.
+weapon_arrow -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_battleaxe -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_bolt -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_bomb -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_boomerang -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_bow -> Steel Bow (vanilla game mesh)
+weapon_bullet -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_chakram -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_claws -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_club -> Iron Club mesh from Weapons of the Third Era by 747823
+weapon_crescent -> Daedric Crescent mesh by Urwy (URW - Useless Resources - Weapons)
+weapon_crossbow -> Dawnguard Crossbow (vanilla game mesh)
+weapon_dagger -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_daggerrev -> weapon_dagger rotated 180 degrees
+weapon_fishingrod -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_giantsword -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_glaive -> Headman's Cleaver (Creation Club mesh)
+weapon_greatclub -> Giant Club (vanilla game mesh)
+weapon_greatsword -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_gun -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_halberd -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_hammer -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_hammer1h -> Ebony Hammer mesh by Urwy (URW - Useless Resources - Weapons)
+weapon_hatchet -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_javelin -> Riekling Spear (vanilla game mesh)
+weapon_katana -> Blades Sword (vanilla game mesh)
+weapon_kunai -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_lance -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_mace -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_nodachi -> Ebony Blade (vanilla game mesh)
+weapon_pickaxe -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_pike -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_pistol -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_quarterstaff -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_rapier -> Cyrus' Sabre (Creation Club mesh)
+weapon_saber -> same artwork as weapon_scimitar
+weapon_sai -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_saw -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_scimitar -> Scimitar (vanilla game mesh)
+weapon_scythe -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_shiv -> Shiv (vanilla game mesh)
+weapon_shuriken -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_sickle -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_spear -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_staff -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_staff_blank -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_sword -> Iron Sword (vanilla game mesh)
+weapon_trident -> Trident Blade mesh by Urwy (URW - Useless Resources - Weapons)
+weapon_twinblade -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_wakizashi -> Silver Tanto mesh from Weapons of the Third Era by 747823
+weapon_waraxe -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_warpick -> Steel War Pick mesh by Urwy (URW - Useless Resources - Weapons)
+weapon_whip -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_woodaxe -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
+weapon_woodsword -> own icon shape (traced from the in-game mesh), recoloured from the in-game texture or an own colour scheme
